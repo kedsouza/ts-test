@@ -10,6 +10,9 @@
     "lint": "eslint src --ext ts",
     "tsc": "tsc"
   },
+   "engines": {
+    "yarn": ">= 2.00.0"
+  }
   "keywords": [],
   "author": "",
   "license": "ISC",
